@@ -8,8 +8,6 @@ categories:
 tags:
     - Test
 weight: 2       # You can add weight to some posts to override the default sorting (date descending)
-websiteURL: http://10.0.0.33:1313
-websiteName: '10.0.0.33'
 ---
 
 # This is a test
