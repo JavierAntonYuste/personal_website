@@ -11,4 +11,4 @@ WORKDIR /app
 EXPOSE 1313
 
 ENTRYPOINT ["hugo"]
-CMD ["server", "--baseURL", "$HUGO_BASE_URL", "--bind", "0.0.0.0", "--port", "1313"]
+CMD ["server", "--bind", "0.0.0.0", "--port", "1313"]
