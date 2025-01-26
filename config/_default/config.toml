@@ -1,7 +1,7 @@
 # Change baseurl before deploy
-baseurl = "http://10.0.0.33:1313"
+# baseurl = "http://10.0.0.33:1313"
 languageCode = "en-us"
-title = "Hugo Theme Stack Starter"
+title = "Habbi Blog"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
